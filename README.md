@@ -42,7 +42,28 @@ Built and tested a hexacopter drone, covering the full cycle from design to flig
 
 ---
 
-## About Me
+## 🏭 Industrial Layout Design – Circular Tank Arrangement
+
+Designed and drafted a structural layout with circular tanks using AutoCAD, emphasizing precision and professional engineering standards.
+
+### Highlights
+- Tank layout with accurate diameters and spacing
+- Staircase design with thread and riser dimensions
+- Scaled drawing (1:1) with title block formatting
+- Applied annotations, hatching, and detailing
+
+## 🏠 Residential House Layout Design
+
+Created a comprehensive 2D residential house plan, including floor plans, elevation, section views, and site plan, following architectural drafting standards.
+
+### Highlights
+- Floor plans with room dimensions and circulation space
+- Elevation and sectional views for structural visualization
+- Area table and schedule of openings for detailing
+- Staircase design (Thread: 0.25 m, Riser: 0.17 m, Width: 0.90 m)
+- Scaled drawing (1:100) with annotations and title block
+  
+## About Me 
 
 **Pramod Tharu**  
 B.Tech in Aeronautical Engineering – Acharya Institute of Technology  
